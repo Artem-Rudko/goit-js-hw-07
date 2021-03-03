@@ -7,8 +7,6 @@ function handleInputName() {
     inputEl.value.length>0 ? nameOutputEl.textContent = inputEl.value : nameOutputEl.textContent = 'незнакомец'
 };
 
-
-
 // Напиши скрипт который, при наборе текста в инпуте input#name-input (событие input),
 //  подставляет его текущее значение в span#name-output. 
 //  Если инпут пустой, в спане должна отображаться строка 'незнакомец'.
