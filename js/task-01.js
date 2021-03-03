@@ -1,6 +1,3 @@
-// const listItemsEl = document.querySelectorAll('.item');
-// console.log(listItemsEl);
-
 
 const listEl = document.querySelector('#categories');
 // console.dir(listEl);
